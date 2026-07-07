@@ -1,14 +1,16 @@
 # SCT_WD_1
 
-Responsive Landing Page with Interactive Navigation Menu
+# Responsive Landing Page with Interactive Navigation Menu
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project is developed as part of the **SkillCraft Technology Web Development Internship - Task 01**.
 
 The objective is to create a responsive landing page featuring a fixed navigation menu that changes its appearance when the user scrolls the page or hovers over menu items, providing an engaging and interactive user experience.
 
-✨ Features
+---
+
+## ✨ Features
 
 - Responsive landing page design
 - Fixed navigation bar visible on all sections
